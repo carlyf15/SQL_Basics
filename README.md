@@ -4,3 +4,4 @@ After finishing the Flatiron School's data analysis program I found myself feeli
 
 First, a a brief introduction:
 
+SQL has been used for
